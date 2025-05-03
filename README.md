@@ -62,5 +62,5 @@ A identidade gerenciada deve ter permissão suficiente para operar as VMs.
 Este projeto está licenciado sob os termos da MIT License.
 
 Desenvolvido por Erick Medeiros
-LinkedIn: @erickbmedeiros
+LinkedIn: [@erickbmedeiros](https://www.linkedin.com/in/erickbmedeiros/)
 
